@@ -1,0 +1,1 @@
+console.log('Rooms logic placeholder');
